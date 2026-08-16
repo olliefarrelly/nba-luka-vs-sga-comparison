@@ -1,6 +1,6 @@
 # Luka Dončić vs Shai Gilgeous-Alexander: A Statistical Comparison
 
-**🔗 [View the live dashboard](https://farrellyy.github.io/nba-luka-vs-sga-comparison/)** — the polished summary, charts, and verdict
+**🔗 [View the live dashboard](https://olliefarrelly.github.io/nba-luka-vs-sga-comparison/)** — the polished summary, charts, and verdict
 
 **📓 [View the full notebook](./LukaVSShai.ipynb)** — all code, data cleaning, and analysis (renders directly in GitHub)
 
